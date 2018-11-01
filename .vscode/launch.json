@@ -1,0 +1,564 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IfDef",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "IfDef",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FinalD",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "FinalD",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AbsShape",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "AbsShape",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DynShapes",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DynShapes",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DynDispDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DynDispDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Override",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Override",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IncompatibleRef",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "IncompatibleRef",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OrderOfConstruction",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "OrderOfConstruction",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shape6",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Shape6",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TruckDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "TruckDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UserSuper",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "UserSuper",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shapes",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Shapes",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VarArgs3",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "VarArgs3",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VarArgs2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "VarArgs2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VarArgs",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "VarArgs",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalClassDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "LocalClassDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NestedClassDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "NestedClassDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QSDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "QSDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SDemo3",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "SDemo3",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SDemo2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "SDemo2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "SDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Recursion",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Recursion",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QDemp2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "QDemp2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "SumDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OverloadConsDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "OverloadConsDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TypeConv",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "TypeConv",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OverloadDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "OverloadDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ErrInfo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ErrInfo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ErrorInfo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ErrorInfo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ErrMsg",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ErrMsg",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PassObRef",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "PassObRef",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Passob",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Passob",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FSDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "FSDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AccessDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "AccessDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubStr",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "SubStr",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringArrays",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "StringArrays",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StrOps",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "StrOps",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "StringDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Search",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Search",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NoChange",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "NoChange",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForEach",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ForEach",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "QDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bubble",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Bubble",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinMax2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MinMax2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinMax",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MinMax",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ArrayDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoPwr",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DemoPwr",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Finalize",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Finalize",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VehConsDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "VehConsDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConsDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ConsDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CompFuel",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "CompFuel",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RetMeth",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "RetMeth",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddMeth",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "AddMeth",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Vehicle_demo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Vehicle_demo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "HelloWorld",
+            "args": ""
+        }
+    ]
+}
